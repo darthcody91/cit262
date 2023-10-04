@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "hello":"node helloworld.js"  
   },
   "repository": {
     "type": "git",
@@ -16,4 +16,5 @@
     "url": "https://github.com/darthcody91/cit262/issues"
   },
   "homepage": "https://github.com/darthcody91/cit262#readme"
+  
 }
